@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ash! 👋
 
-<!--
-**ashcabula30/ashcabula30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Developer and Freelance Video Editor based in the Philippines. I love building efficient full-stack web applications, cross-platform apps, and crafting high-impact visual stories.
 
-Here are some ideas to get you started:
+### 🛠 Full Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Languages:** JavaScript, Rust, C#, Python, HTML5, CSS3, SQL
+* **Frontend Development:** React, Tailwind CSS
+* **Mobile & Desktop:** Tauri, React Native
+* **Backend Ecosystem:** .NET, Django, Node.js / Express
+* **Databases:** PostgreSQL, SQL Server, MySQL
+* **Creative & Video Production:** Adobe After Effects, DaVinci Resolve, Blender (Shader Nodes & 3D Modeling)
+* **DevOps & Deployment:** Vercel, Git, GitHub, GitLab
+
+### 💬 Connect With Me
+
+* **Portfolio Website:** [Portfolio](https://ashcabulaportfolio.vercel.app)
+* **LinkedIn:** [linkedin.com/in/asprinio-jr-cabula-311b71242](https://www.linkedin.com/in/asprinio-jr-cabula-311b71242)
